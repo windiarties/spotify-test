@@ -928,6 +928,7 @@
             <UseType>Stream</UseType>
           </Usage>
           <TerritoryCode>ID</TerritoryCode>
+          <TerritoryCode>MY</TerritoryCode>
           <ValidityPeriod>
             <StartDate>2020-05-06</StartDate>
           </ValidityPeriod>
@@ -956,6 +957,7 @@
             <UseType>Stream</UseType>
           </Usage>
           <TerritoryCode>ID</TerritoryCode>
+          <TerritoryCode>MY</TerritoryCode>
           <ValidityPeriod>
             <StartDate>2020-05-06</StartDate>
           </ValidityPeriod>
