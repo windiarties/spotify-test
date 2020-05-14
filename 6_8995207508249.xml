@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+  <MessageHeader>
+    <MessageThreadId>20200506085022001</MessageThreadId>
+    <MessageId>20200506085022001</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2015111101V</PartyId>
+      <PartyName>
+        <FullName>Musica Studios</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PADPIDA2008111701W</PartyId>
+      <PartyName>
+        <FullName>Spotify Limited</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageRecipient>
+      <PartyId>PADPIDA2011072101T</PartyId>
+      <PartyName>
+        <FullName>Spotify</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2020-05-06T08:50:22+07:00</MessageCreatedDateTime>
+    <MessageControlType>TestMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator xmlns="">OriginalMessage</UpdateIndicator>
+  <IsBackfill>false</IsBackfill>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA711700012</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>PERCAYAKAN</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H03M16S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>PERCAYAKAN</TitleText>
+        </Title>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Conductor</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Arranger</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Orchestra</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Musica Studios</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2008-01-06</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2008</Year>
+          <PLineText>Musica Studios</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">960349</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8995207508249_1.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>651a6fdbf5660fbb75963ab777d0153b</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA711700013</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>TAKKAN ADA</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M22S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>TAKKAN ADA</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Conductor</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Arranger</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Orchestra</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Musica Studios</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2008-01-06</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2008</Year>
+          <PLineText>Musica Studios</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">956352</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8995207508249_2.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>049a6083906def216e625f777a405aaa</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA711700014</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>JANTUNG HATI</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M01S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>JANTUNG HATI</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Conductor</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Arranger</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Orchestra</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Musica Studios</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2008-01-06</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2008</Year>
+          <PLineText>Musica Studios</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">981063</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8995207508249_3.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>837a8124871713b686fb4aa20652253b</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA711700015</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>MANTAN KEKASIH</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H03M16S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>MANTAN KEKASIH</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Conductor</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Arranger</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Orchestra</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Musica Studios</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2008-01-06</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2008</Year>
+          <PLineText>Musica Studios</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">970521</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8995207508249_4.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>52f2030dba38129a735cf62d5b5ba812</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA711700016</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M39S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Conductor</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Arranger</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Orchestra</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>Musica Studios</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2008-01-06</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2008</Year>
+          <PLineText>Musica Studios</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1048395</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8995207508249_5.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>fd6c2b0389d0b0903bec49baadf7ed6c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="DPID:PADPIDA2015111101V">GGL_UIM_ID:8995207508249.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A6</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>2500</ImageHeight>
+          <ImageWidth>2500</ImageWidth>
+          <File>
+            <FileName>8995207508249.jpg</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>45a70e80459263644d45bec9aa4d72ad</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="false">8995207508249</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>YANG TAK TERLUPAKAN</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>YANG TAK TERLUPAKAN</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>YANG TAK TERLUPAKAN</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title TitleType="GroupingTitle">
+              <TitleText>Disc 1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>3</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>4</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>5</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ResourceType>Image</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>classical</GenreText>
+          <SubGenre/>
+        </Genre>
+        <OriginalReleaseDate>2008-01-06</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA711700012</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>PERCAYAKAN</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>PERCAYAKAN</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>PERCAYAKAN</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Conductor</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Arranger</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Orchestra</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA711700013</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>TAKKAN ADA</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>TAKKAN ADA</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>TAKKAN ADA</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Conductor</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Arranger</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Orchestra</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>2</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA711700014</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R3</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>JANTUNG HATI</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>JANTUNG HATI</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>JANTUNG HATI</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Conductor</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Arranger</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Orchestra</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>3</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA711700015</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R4</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>MANTAN KEKASIH</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A4</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>MANTAN KEKASIH</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>MANTAN KEKASIH</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Conductor</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Arranger</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Orchestra</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>4</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA711700016</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R5</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A5</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>LYLA</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>LYLA</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Conductor</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Arranger</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indra Perdana Sinaga (Naga LYLA)</FullName>
+          </PartyName>
+          <ArtistRole>Orchestra</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>5</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2008</Year>
+        <PLineText>Musica Studios</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2008</Year>
+        <CLineText>Musica Studios</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealReference>D1</DealReference>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>Stream</UseType>
+          </Usage>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>Stream</UseType>
+          </Usage>
+          <TerritoryCode>ID</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2020-05-06</StartDate>
+          </ValidityPeriod>
+          <RightsClaimPolicy>
+            <RightsClaimPolicyType>Monetize</RightsClaimPolicyType>
+          </RightsClaimPolicy>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <DealReleaseReference>R3</DealReleaseReference>
+      <DealReleaseReference>R4</DealReleaseReference>
+      <DealReleaseReference>R5</DealReleaseReference>
+      <Deal>
+        <DealReference>D2</DealReference>
+        <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>Stream</UseType>
+          </Usage>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>Stream</UseType>
+          </Usage>
+          <TerritoryCode>ID</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2020-05-06</StartDate>
+          </ValidityPeriod>
+          <RightsClaimPolicy>
+            <RightsClaimPolicyType>Monetize</RightsClaimPolicyType>
+          </RightsClaimPolicy>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
