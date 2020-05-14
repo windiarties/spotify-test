@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+  <MessageHeader>
+    <MessageThreadId>20200506094054001</MessageThreadId>
+    <MessageId>202005060940540001</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2015111101V</PartyId>
+      <PartyName>
+        <FullName>MUSICA STUDIOS</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PADPIDA2008111701W</PartyId>
+      <PartyName>
+        <FullName>Spotify Limited</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageRecipient>
+      <PartyId>PADPIDA2011072101T</PartyId>
+      <PartyName>
+        <FullName>Spotify</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2020-05-06T09:40:55+07:00</MessageCreatedDateTime>
+    <MessageControlType>TestMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator xmlns="">UpdateMessage</UpdateIndicator>
+  <IsBackfill>false</IsBackfill>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA181243901</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rindu Setengah Mati</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H03M33S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Rindu Setengah Mati</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Remixer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>MUSICA STUDIOS</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2009-12-16</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2009</Year>
+          <PLineText>MUSICA STUDIOS</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1571129</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8992880903613_1.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>87164ee50aec1bf4a056296e39732f07</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA181243902</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Sudahi Perih Ini</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M11S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Sudahi Perih Ini</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Remixer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>MUSICA STUDIOS</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2009-12-16</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2009</Year>
+          <PLineText>MUSICA STUDIOS</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1653194</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8992880903613_2.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>c99e51032b47602842367cb705ba74e1</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA181243903</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Apa Salahku</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M06S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Apa Salahku</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Remixer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>MUSICA STUDIOS</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2009-12-16</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2009</Year>
+          <PLineText>MUSICA STUDIOS</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1657968</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8992880903613_3.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>f6cd45c7272e82f79dc91a8673de4eb5</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA181243904</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Semakin</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H03M22S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Semakin</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Remixer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>MUSICA STUDIOS</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2009-12-16</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2009</Year>
+          <PLineText>MUSICA STUDIOS</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1728578</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8992880903613_4.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>de5c2aadf3d04cb64223925eee4dd5c3</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>IDA181243905</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Jangan Pergi</TitleText>
+      </ReferenceTitle>
+      <Duration>PT00H04M14S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jangan Pergi</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+        <IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Producer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+ 	<IndirectResourceContributor>
+	  <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <IndirectResourceContributorRole>Remixer</IndirectResourceContributorRole>
+ 	</IndirectResourceContributor>
+        <LabelName>Musica Studios</LabelName>
+        <RightsController>
+          <PartyName>
+            <FullName>MUSICA STUDIOS</FullName>
+          </PartyName>
+          <PartyId>PADPIDA2015111101V</PartyId>
+          <RightsControllerRole>RightsController</RightsControllerRole>
+          <RightSharePercentage>100.00</RightSharePercentage>
+        </RightsController>
+        <OriginalResourceReleaseDate>2009-12-16</OriginalResourceReleaseDate>
+        <PLine>
+          <Year>2009</Year>
+          <PLineText>MUSICA STUDIOS</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+          <AudioCodecType>FLAC</AudioCodecType>
+          <BitRate UnitOfMeasure="bps">1606858</BitRate>
+          <SamplingRate UnitOfMeasure="Hz">44100</SamplingRate>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>8992880903613_5.flac</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>892c8e51e2b3396f5c4d6fefff4942c8</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="DPID:PADPIDA2015111101V">GGL_UIM_ID:8992880903613.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A6</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>2500</ImageHeight>
+          <ImageWidth>2500</ImageWidth>
+          <File>
+            <FileName>8992880903613.jpg</FileName>
+            <FilePath>resources/</FilePath>
+            <HashSum>
+              <HashSum>2cbfd1eb0c96ad7da51288f01b8d8b1e</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="false">8992880903613</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Perjalanan</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType UserDefinedValue="EP">UserDefined</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Perjalanan</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Perjalanan</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <ResourceGroup>
+            <Title TitleType="GroupingTitle">
+              <TitleText>Disc 1</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <SequenceNumber>1</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1<ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>2</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>3</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>4</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+            <ResourceGroupContentItem>
+              <SequenceNumber>5</SequenceNumber>
+              <ResourceType>SoundRecording</ResourceType>
+              <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroupContentItem>
+            <ResourceType>Image</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Pop</GenreText>
+          <SubGenre/>
+        </Genre>
+        <OriginalReleaseDate>2009-12-16</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA181243901</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Rindu Setengah Mati</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A1</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Rindu Setengah Mati</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Rindu Setengah Mati</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Remixer</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA181243902</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Sudahi Perih Ini</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A2</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Sudahi Perih Ini</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Sudahi Perih Ini</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Remixer</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>2</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA181243903</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R3</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Apa Salahku</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Apa Salahku</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Apa Salahku</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Remixer</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>3</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA181243904</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R4</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Semakin</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A4</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Semakin</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Semakin</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Remixer</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>4</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ISRC>IDA181243905</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R5</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Jangan Pergi</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A5</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>TrackRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>ID</TerritoryCode>
+        <TerritoryCode>MY</TerritoryCode>
+        <DisplayArtistName>D'Masiv</DisplayArtistName>
+        <LabelName>Musica Studios</LabelName>
+        <Title TitleType="FormalTitle">
+          <TitleText>Jangan Pergi</TitleText>
+        </Title>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jangan Pergi</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>D'Masiv</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Enda UNGU</FullName>
+          </PartyName>
+          <ArtistRole>FeaturedArtist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Rian Ekky Pradipta (Rian D'MASIV)</FullName>
+          </PartyName>
+          <ArtistRole>Lyricist</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Indrawati Widjaja</FullName>
+          </PartyName>
+          <ArtistRole>Producer</ArtistRole>
+        </DisplayArtist>
+	<DisplayArtist>
+          <PartyName>
+            <FullName>Tonny Hawaii</FullName>
+          </PartyName>
+          <ArtistRole>Remixer</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>5</SequenceNumber>
+            <ResourceType>SoundRecording</ResourceType>
+            <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2009</Year>
+        <PLineText>MUSICA STUDIOS</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2009</Year>
+        <CLineText>MUSICA STUDIOS</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+<DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R0</DealReleaseReference>
+      <Deal>
+        <DealReference>D1</DealReference>
+         <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>Stream</UseType>
+          </Usage>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>Stream</UseType>
+          </Usage>
+          <TerritoryCode>ID</TerritoryCode>
+          <TerritoryCode>MY</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2020-05-06</StartDate>
+          </ValidityPeriod>
+          <RightsClaimPolicy>
+            <RightsClaimPolicyType>Monetize</RightsClaimPolicyType>
+          </RightsClaimPolicy>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <DealReleaseReference>R3</DealReleaseReference>
+      <DealReleaseReference>R4</DealReleaseReference>
+      <DealReleaseReference>R5</DealReleaseReference>
+      <Deal>
+        <DealReference>D2</DealReference>
+      <DealTerms>
+          <CommercialModelType>SubscriptionModel</CommercialModelType>
+          <Usage>
+            <UseType>ConditionalDownload</UseType>
+            <UseType>Stream</UseType>
+          </Usage>
+          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+          <Usage>
+            <UseType>Stream</UseType>
+          </Usage>
+          <TerritoryCode>ID</TerritoryCode>
+          <TerritoryCode>MY</TerritoryCode>
+          <ValidityPeriod>
+            <StartDate>2020-05-06</StartDate>
+          </ValidityPeriod>
+          <RightsClaimPolicy>
+            <RightsClaimPolicyType>Monetize</RightsClaimPolicyType>
+          </RightsClaimPolicy>
+        </DealTerms>
+      </Deal>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
