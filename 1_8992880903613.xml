@@ -936,11 +936,7 @@
         <DealTerms>
           <CommercialModelType>SubscriptionModel</CommercialModelType>
           <Usage>
-            <UseType>ConditionalDownload</UseType>
-            <UseType>Stream</UseType>
-          </Usage>
-          <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
-          <Usage>
+            <UseType>NonInteractiveStream</UseType>
             <UseType>Stream</UseType>
           </Usage>
           <TerritoryCode>ID</TerritoryCode>
