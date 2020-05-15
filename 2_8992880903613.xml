@@ -450,7 +450,7 @@
         <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
         <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
       </ReleaseResourceReferenceList>
-      <ReleaseType UserDefinedValue="EP">UserDefined</ReleaseType>
+      <ReleaseType Namespace=”PADPIDA2011072101T” UserDefinedValue="EP">UserDefined</ReleaseType>
       <ReleaseDetailsByTerritory>
         <TerritoryCode>ID</TerritoryCode>
         <TerritoryCode>MY</TerritoryCode>
