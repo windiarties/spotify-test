@@ -444,7 +444,7 @@
         <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
         <ReleaseResourceReference ReleaseResourceType="SecondaryResource">A6</ReleaseResourceReference>
       </ReleaseResourceReferenceList>
-      <ReleaseType UserDefinedValue="Compilation">UserDefined</ReleaseType>
+      <ReleaseType Namespace=”PADPIDA2011072101T” UserDefinedValue="Compilation">UserDefined</ReleaseType>
       <ReleaseDetailsByTerritory>
         <TerritoryCode>Worldwide</TerritoryCode>
         <DisplayArtistName>D'Masiv</DisplayArtistName>
