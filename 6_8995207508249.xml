@@ -38,7 +38,7 @@
       </ReferenceTitle>
       <Duration>PT00H03M16S</Duration>
       <SoundRecordingDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <Title TitleType="DisplayTitle">
           <TitleText>PERCAYAKAN</TitleText>
         </Title>
@@ -119,7 +119,7 @@
       </ReferenceTitle>
       <Duration>PT00H04M22S</Duration>
       <SoundRecordingDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <Title TitleType="DisplayTitle">
           <TitleText>TAKKAN ADA</TitleText>
         </Title>
@@ -200,7 +200,7 @@
       </ReferenceTitle>
       <Duration>PT00H04M01S</Duration>
       <SoundRecordingDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <Title TitleType="DisplayTitle">
           <TitleText>JANTUNG HATI</TitleText>
         </Title>
@@ -281,7 +281,7 @@
       </ReferenceTitle>
       <Duration>PT00H03M16S</Duration>
       <SoundRecordingDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <Title TitleType="DisplayTitle">
           <TitleText>MANTAN KEKASIH</TitleText>
         </Title>
@@ -362,7 +362,7 @@
       </ReferenceTitle>
       <Duration>PT00H04M39S</Duration>
       <SoundRecordingDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <Title TitleType="DisplayTitle">
           <TitleText>KUTEMUKAN PENGGANTIMU</TitleText>
         </Title>
@@ -439,7 +439,7 @@
       </ImageId>
       <ResourceReference>A6</ResourceReference>
       <ImageDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <TechnicalImageDetails>
           <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
           <ImageCodecType>JPEG</ImageCodecType>
@@ -476,7 +476,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>Album</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
@@ -557,7 +557,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>TrackRelease</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
@@ -640,7 +640,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>TrackRelease</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
@@ -723,7 +723,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>TrackRelease</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
@@ -806,7 +806,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>TrackRelease</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
@@ -889,7 +889,7 @@
       </ReleaseResourceReferenceList>
       <ReleaseType>TrackRelease</ReleaseType>
       <ReleaseDetailsByTerritory>
-        <TerritoryCode>Worldwide</TerritoryCode>
+        <TerritoryCode>ID</TerritoryCode>
         <DisplayArtistName>LYLA</DisplayArtistName>
         <LabelName>Musica Studios</LabelName>
         <Title TitleType="FormalTitle">
